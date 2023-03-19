@@ -1,0 +1,38 @@
+2                                       !HorizontalJet BREEZE source type
+1
+0.01703
+2170
+239.8
+0.905238735320876
+1370840
+4294
+639
+2132.52
+-32.97999954
+239.8                                   !239.8  BREEZE source temp.
+2047.9674244061                         !2047.9674244061  BREEZE mass source rate
+2.22634695305654                        !0 BREEZE use default area flag
+37.1099652730266                        !37.1099652730266 BREEZE duration
+0
+0
+10                    0  10000  50000  150000
+1000
+0
+0
+0
+0
+0.03
+10
+2
+297
+80
+4
+-1.0
+'BREEZE SLAB
+SLI SOURCEID SLAB
+SLI X 94.979226
+SLI Y 36.371449
+SLI DES 
+SLI Color1 32768
+SLI Color2 65535
+SLI Color3 255
